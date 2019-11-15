@@ -1,3 +1,6 @@
+/* CRC (Cyclic Redundancy Check) is a checksum algorithm to detect inconsistency of data, e.g. bit errors during data transmission. 
+A checksum, calculated by CRC, is attached to the data to help the receiver to detect such errors. */
+
 import java.io.*;
 public class crc {
 	public static void main(String[] args) throws IOException {
