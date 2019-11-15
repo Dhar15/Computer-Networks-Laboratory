@@ -1,3 +1,7 @@
+/* The Bellman–Ford algorithm is an algorithm that computes shortest paths from a single source vertex to all 
+of the other vertices in a weighted digraph. It is  more versatile, as it is capable of handling graphs in which some of the edge weights 
+are negative numbers. */
+
 import java.io.*;
 import java.util.*;
 import java.util.Scanner;
