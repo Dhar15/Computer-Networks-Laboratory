@@ -1,3 +1,5 @@
+//Program on datagram socket for client/server to display the messages on client side, typed at the server side.
+
 //Run the server first, and after the connection is established proceed with running the client side.
 
 import java.net.*;
